@@ -1,1 +1,25 @@
+---
+title: "Wi-Fi Attacks Lab"
+layout: single
+permalink: /labs/wifi-attacks/
+---
 
+# Wi-Fi Attacks Lab
+
+## Objective
+Evaluate wireless security through packet capture, deauthentication, and WPA/WPA2 cracking techniques.
+
+## Tools Used
+- Aircrack-ng  
+- Airodump-ng  
+- Wireshark  
+
+## Steps
+1. Captured Wi-Fi packets  
+2. Performed deauthentication attack  
+3. Attempted WPA/WPA2 handshake cracking  
+
+## Key Learnings
+- Wi-Fi encryption weaknesses  
+- Importance of strong passphrases  
+- Network segmentation improves safety  
