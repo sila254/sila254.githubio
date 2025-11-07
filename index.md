@@ -13,8 +13,8 @@ Business Information Technology professional specializing in cybersecurity, syst
 ## Curriculum Vitae (CV)
 You can download my full curriculum vitae below:
 
-➡️ **[Download CV (PDF)](/assets/cv/Mark-Musyoka-Sila-CV.pdf)**  
-*(Make sure the PDF exists in /assets/cv/ — or tell me to generate it for you.)*
+➡️ **[Download CV (PDF)](/assets/cv/Mark Musyoka Sila CV.pdf)**  
+
 
 ---
 
