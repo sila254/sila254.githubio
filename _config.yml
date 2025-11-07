@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Mark Musyoka Sila"
-  avatar : "/assets/images/STJ_7929-Edd"
+  avatar : "/assets/images/STJ_7929-Edd.jpg"
   bio    : "Business IT specialist creating efficient systems, workflows, and tech-driven solutions.
 "
   links:
