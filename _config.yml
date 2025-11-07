@@ -16,7 +16,7 @@
 title: Mark Musyoka Sila - Portfolio
 email: silamark.ms@gmail.com
 description: >
-Business Information Technology graduate. Cybersecurity and software projects.
+  Business Information Technology graduate. Cybersecurity and software projects.
 twitter_username: SilaMark4
 github_username: sila254
 minimal_mistakes_skin: default
@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -58,11 +58,12 @@ plugins:
 author:
   name   : "Mark Musyoka Sila"
   avatar : "/assets/images/STJ_7929-Edd.jpg"
-  bio    : "Business IT specialist creating efficient systems, workflows, and tech-driven solutions.
-"
+  bio: >
+    Business IT specialist creating efficient systems, workflows, and tech-driven solutions.
+
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mark-sila-a2a005316/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
