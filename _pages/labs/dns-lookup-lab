@@ -1,1 +1,27 @@
+---
+title: "DNS Lookup Lab"
+layout: single
+permalink: /labs/dns-lookup/
+---
+
+# DNS Lookup & Passive Reconnaissance Lab
+
+## Objective
+Perform passive reconnaissance by collecting DNS and WHOIS information without interacting with the target.
+
+## Tools Used
+- nslookup  
+- dig  
+- DNSdumpster  
+- WHOIS Lookup  
+
+## Steps Performed
+1. Performed WHOIS lookup  
+2. Extracted DNS A, MX, NS, TXT records  
+3. Analyzed subdomains and DNS configurations  
+
+## Key Takeaways
+- DNS holds critical information for attackers  
+- Misconfigurations expose sensitive details  
+- Passive recon is useful and stealthy  
 
