@@ -1,8 +1,57 @@
 ---
+title: "About Me"
 permalink: /about/
-title: "About"
+layout: single
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## About Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am **Mark Musyoka Sila**, a passionate and driven **Cybersecurity enthusiast and IT professional** with a background in **Business Information Technology** from Strathmore University. My career interests lie in **penetration testing, digital forensics, network security, and secure systems development**. I actively build my skills through hands-on labs, CTFs, personal projects, and continuous learning.
+
+I believe in combining strong technical skills with strategic thinking to solve real-world security challenges. My goal is to contribute to secure digital environments and help organizations strengthen their cyber resilience.
+
+---
+
+## What I Do
+
+- **Cybersecurity & Ethical Hacking**  
+  Experience in vulnerability assessments, web security, wireless security, password attacks, scripting, and blue-team defensive concepts.
+
+- **IT Support & Systems Management**  
+  Skilled in troubleshooting, networking, hardware maintenance, and system setup.
+
+- **Software & Web Development**  
+  Comfortable with modern programming tools and building functional applications and automation scripts.
+
+- **Business Technology Integration**  
+  Understanding how technology and business processes align to deliver value.
+
+---
+
+## Current Focus
+
+I am currently working on:
+
+- Building a **professional cybersecurity portfolio**
+- Completing practical labs and security assessments
+- Developing projects in **Python, Linux, networking, and web security**
+- Expanding my knowledge of **OWASP Top 10, attack methodologies, threat analysis, and monitoring tools**
+
+---
+
+## Core Values
+
+- **Integrity** – I uphold ethical practices in all cybersecurity engagements.  
+- **Excellence** – I strive to produce high-quality, meaningful work.  
+- **Continuous Learning** – Technology evolves, and so should we.  
+- **Collaboration** – I enjoy learning from and working with others.
+
+---
+
+## Beyond Tech
+
+Outside cybersecurity and IT, I am also an entrepreneur and the founder of **Silwaks Holdings**, where I explore technology, branding, and business innovation.
+
+---
+
+If you want help customizing this to match your exact style, adding sections, or formatting it with Minimal Mistakes, I can help update it further.
