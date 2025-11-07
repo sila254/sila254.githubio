@@ -1,25 +1,26 @@
 ---
-title: "Wi-Fi Attacks Lab"
+title: "DNS Lookup Lab"
 layout: single
 permalink: /labs/dns-lookup/
 ---
 
-# Wi-Fi Attacks Lab
+# DNS Lookup & Passive Reconnaissance Lab
 
 ## Objective
-Evaluate wireless security through packet capture, deauthentication, and WPA/WPA2 cracking techniques.
+Perform passive reconnaissance by collecting DNS and WHOIS information without interacting with the target.
 
 ## Tools Used
-- Aircrack-ng  
-- Airodump-ng  
-- Wireshark  
+- nslookup  
+- dig  
+- DNSdumpster  
+- WHOIS Lookup  
 
-## Steps
-1. Captured Wi-Fi packets  
-2. Performed deauthentication attack  
-3. Attempted WPA/WPA2 handshake cracking  
+## Steps Performed
+1. Performed WHOIS lookup  
+2. Extracted DNS A, MX, NS, TXT records  
+3. Analyzed subdomains and DNS configurations  
 
-## Key Learnings
-- Wi-Fi encryption weaknesses  
-- Importance of strong passphrases  
-- Network segmentation improves safety  
+## Key Takeaways
+- DNS holds critical information for attackers  
+- Misconfigurations expose sensitive details  
+- Passive recon is useful and stealthy  
