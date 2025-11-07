@@ -52,6 +52,3 @@ I am currently working on:
 
 Outside cybersecurity and IT, I am also an entrepreneur and the founder of **Silwaks Holdings**, where I explore technology, branding, and business innovation.
 
----
-
-If you want help customizing this to match your exact style, adding sections, or formatting it with Minimal Mistakes, I can help update it further.
