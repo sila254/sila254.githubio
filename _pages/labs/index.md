@@ -39,9 +39,6 @@ Identify and exploit a SQL injection vulnerability in DVWA to extract user crede
 - Manual SQL injection provides deeper understanding than automation.  
 - Poor input validation leads to full system compromise.  
 
-### **Screenshots**
-*(Insert screenshot here)*  
-
 ---
 
 # 🧪 Lab 2: Network Reconnaissance – Nmap & Gobuster
