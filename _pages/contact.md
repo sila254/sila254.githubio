@@ -26,6 +26,3 @@ Feel free to reach out for collaborations, consultancy, or professional inquirie
 
 
 ---
-
-
-If you prefer, I can embed a contact form or add a custom design section.
